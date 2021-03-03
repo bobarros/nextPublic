@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). My code was added to the original one just to build an example of landing page for and architeture office.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). My code was added to the original one just to build an example of landing page for an architeture office. Everything else is just like vercel readme.
   
 If you want to reach me, just go to:
   
