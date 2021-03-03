@@ -1,8 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). My code was added to the original one just to build an example of landing page for and architeture office.
   
-If you want to reache, just go to:
+If you want to reach me, just go to:
   
 [brunobarros.dev](https://brunobarros.dev)
+  
+You can access an online demo at:
+  
+[Vercel app](https://next-public-six.vercel.app/)
 
 ## Getting Started
 
